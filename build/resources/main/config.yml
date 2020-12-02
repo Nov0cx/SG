@@ -1,0 +1,24 @@
+#
+#if you create a spawn with /sg setloc index
+#start counting at 1
+#
+
+
+maxItemsInChest: 5
+soup: true
+minPlayers: 2
+# x * x
+borderSize: 200
+#enter items more often to increase the probability
+items:
+  - "STONE_SWORD"
+  - "FISHING_ROD"
+  - "LEATHER_CHESTPLATE"
+  - "LEATHER_BOOTS"
+  - "LEATHER_HELMET"
+  - "LEATHER_LEGGINGS"
+  - "WOOD_SWORD"
+  - "COOKED_BEEF"
+  - "COOKED_BEEF"
+  - "COOKED_BEEF"
+  - "COOKED_BEEF"

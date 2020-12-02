@@ -1,0 +1,8 @@
+name: SG
+main: com.nov0cx.sg.SG
+version: 1.0.0
+api-version: "1.14"
+
+commands:
+  sg:
+    description: a command
